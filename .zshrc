@@ -8,6 +8,7 @@ PROMPT='%F{green}%*%f %~ '
 zstyle ':vcs_info:git:*' formats '%b'
 
 # Shortcuts because I am lazy
+alias gtr="cd ~"
 alias gtp="cd Documents/Programming"
 alias edit-zshrc="vim ~/.zshrc"
 alias source-zshrc="source ~/.zshrc"
